@@ -1,0 +1,1 @@
+Please  deploy the cardOwnership.contract as it inherits all the other contarcts.
